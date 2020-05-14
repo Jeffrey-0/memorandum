@@ -1,8 +1,8 @@
 # Vue实战小demo-备忘录
 
-演示demo地址：
+演示demo地址：[备忘录演示地址](https://jeffrey-0.github.io/memorandum/)
 
-项目github地址：
+项目github地址：[备忘录项目地址](https://github.com/Jeffrey-0/memorandum)
 
 ## 效果演示
 
